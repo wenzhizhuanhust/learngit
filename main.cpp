@@ -15,4 +15,6 @@ int main() {
   return 4;
 
   return 5;
+
+  return 7;
 }

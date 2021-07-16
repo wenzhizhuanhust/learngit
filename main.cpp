@@ -13,8 +13,4 @@ int main() {
   return 3;
 
   return 4;
-
-
-  my stupid boss;
-
 }

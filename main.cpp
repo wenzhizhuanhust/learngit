@@ -11,4 +11,10 @@ int main() {
   return 2;
 
   return 3;
+
+  return 4;
+
+
+  my stupid boss;
+
 }
